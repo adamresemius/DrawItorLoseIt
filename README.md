@@ -1,16 +1,18 @@
 # DrawItorLoseIt
-Welcome to the completed Game Room project!
+#Draw it or Lose it Documentation
+This repository contains the documentation for Draw it or Lose it, a web-based game developed by Game Room. The game involves multiple teams guessing a picture displayed from a library, and the client wants the game to run on multiple platforms while meeting a set of software requirements.
 
-Game Room is a web-based gaming platform that offers an exciting gaming experience to users who enjoy playing Draw It or Lose It. As a solo contributor to this project, my objective was to create a seamless gaming experience for users, irrespective of their operating system.
+#Sections
+The documentation is divided into several sections, each serving a specific purpose:
 
-To achieve this goal, I created a comprehensive software requirements document that defined the necessary elements required for the development of the platform. The document helped me to maintain speed and efficiency during the development process.
+Executive Summary: Provides a concise overview of the game and its requirements.
+Design Constraints: Lists the specific requirements that the game must meet, including unique team names, the ability to run on different hardware components, and the use of encapsulation and abstraction.
+Domain Model: Shows the relationships between the Game, Team, and Player classes, with the Entity class inheriting all public attributes from these classes.
+Development Requirements: Includes a chart that outlines the server-side and client-side development requirements and the development tools needed to create the game.
+Recommendations: Lists the recommended operating platforms, operating system architectures, storage and memory management, distributed systems and networks, and security for the game.
 
-In Version 1.0 of the software requirements document, I defined the target audience and their needs. However, I felt that I could provide more detailed explanations of the differences between operating systems in Version 1.1. As a result, I revised the document and included more in-depth explanations of each operating system's unique features and capabilities.
+#Revision History
+The document revision history is included, with version 1.2 created on August 17, 2022, by Adam Resemius. This section allows readers to track the changes made to the documentation over time and ensures that they are working with the most up-to-date version of the document.
 
-I interpreted the user's needs into the software design by identifying the client's primary concern - which operating system should be used to host a web-based game that enables users with different operating systems to play together. I compared different software systems side by side to understand what each operating system offered to the users and made informed decisions based on my analysis.
-
-During the software design process, I created a detailed notebook that documented each decision I made. This helped me better understand the choices I made and will enable me to make more informed decisions in the future.
-
-I am thrilled to present the final product, Game Room, a fully functional web-based gaming platform that provides an engaging and seamless gaming experience for users. My hard work and dedication have resulted in a platform that will delight gamers around the world.
-
-Thank you for choosing Game Room, and I hope you enjoy playing Draw It or Lose It!
+#Usage
+The documentation provides developers and stakeholders with all the necessary information needed to develop and expand the game. To get started, please review the Executive Summary to gain a broad understanding of the game's purpose and requirements. Then, dive into the other sections to gain a more detailed understanding of the game's design and development requirements.

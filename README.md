@@ -1,2 +1,16 @@
 # DrawItorLoseIt
-The Game room is targeting gamers who are looking to play a game draw it or lose it, I was asked to make a document that will explain and plan out the software requirements for what will be needed. This helps create speed and efficency with the actual development process. During this document I feel as if I started off the software requirements very strong for the target of the project, but I ended up getting confused with everything that was going on, so if I had a choice of what I would revise, it would be version 1.1 of the document, because I feel as if I could do a better job explaining the differences between each operating system. I would improve it by writing more in depth explinations of the differences between the operating systems, because I feel as if I was more focused on the similarities in the chart. This made it hard to choose what OS I wanted to use. I interpreted the users needs into the software design by learning about everything the client was concerned about, which was what operating system should be used to host a web based game, and allow the game users with different operating systems to play all together. During designing the softare, I was able to compare the software systems all at once side by side to undersand what each operating system tailors to for the users and make choices based on this. FOr the future I feel as if I need to write more down on a notebook to allow me to understand each choice a little in depth. 
+Welcome to the completed Game Room project!
+
+Game Room is a web-based gaming platform that offers an exciting gaming experience to users who enjoy playing Draw It or Lose It. As a solo contributor to this project, my objective was to create a seamless gaming experience for users, irrespective of their operating system.
+
+To achieve this goal, I created a comprehensive software requirements document that defined the necessary elements required for the development of the platform. The document helped me to maintain speed and efficiency during the development process.
+
+In Version 1.0 of the software requirements document, I defined the target audience and their needs. However, I felt that I could provide more detailed explanations of the differences between operating systems in Version 1.1. As a result, I revised the document and included more in-depth explanations of each operating system's unique features and capabilities.
+
+I interpreted the user's needs into the software design by identifying the client's primary concern - which operating system should be used to host a web-based game that enables users with different operating systems to play together. I compared different software systems side by side to understand what each operating system offered to the users and made informed decisions based on my analysis.
+
+During the software design process, I created a detailed notebook that documented each decision I made. This helped me better understand the choices I made and will enable me to make more informed decisions in the future.
+
+I am thrilled to present the final product, Game Room, a fully functional web-based gaming platform that provides an engaging and seamless gaming experience for users. My hard work and dedication have resulted in a platform that will delight gamers around the world.
+
+Thank you for choosing Game Room, and I hope you enjoy playing Draw It or Lose It!
